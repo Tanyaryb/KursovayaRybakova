@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Tests.cpp
+C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\TanyaRybakova\Flow.h(25,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\TanyaRybakova\Flow.h(151,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\Tests\Tests.cpp(20,28): warning C4101:  ex: неиспользованная локальная переменная
+C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\TanyaRybakova\Map.h(399): warning C4715:  Map<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>::find: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\Debug\Tests.lib и объект C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\Debug\Tests.exp
+  Tests.vcxproj -> C:\Users\ASUS\Desktop\Kursovaya\TanyaRybakova\Debug\Tests.dll

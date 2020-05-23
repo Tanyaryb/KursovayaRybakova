@@ -1,0 +1,5 @@
+S B 2
+S D 2
+S B 2
+D T 1
+B T 2
